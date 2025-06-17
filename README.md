@@ -2,10 +2,7 @@
 I'm Ethan, just another guy you perhaps come to scroll across in your daily adventures.
 I make dumb projects (but I don't tell myself that 😄).<br>
 
-I'm a bit into cars, and my favourite is the Corvette Stingray, even though my Profile Picture is a McLaren Senna (I can't be bothered changing it😴)<br><br>
-Here are some stats to prove that I'm pretty bad at coding. (TODO: Regret adding this)<br><br>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=frogtheastronaut&show_icons=true&bg_color=00000000)
-
+I'm a bit into cars, and my favourite is the Corvette Stingray, even though my Profile Picture is a McLaren Senna (I can't be bothered changing it😴)
 <!--
 **frogtheastronaut/frogtheastronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
