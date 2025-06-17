@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Ethan, just another guy you perhaps come to scroll across in your daily adventures.
+I make dumb projects (but I don't tell myself that 😄).
 
 <!--
 **frogtheastronaut/frogtheastronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
