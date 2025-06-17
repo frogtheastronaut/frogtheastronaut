@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 *performs NPC wave*
 I'm Ethan, just another guy you perhaps come to scroll across in your daily adventures.
 I make dumb projects (but I don't tell myself that 😄).<br>
 
