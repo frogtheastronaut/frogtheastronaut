@@ -35,7 +35,10 @@ Lately, I've been trying to make a [web crawler](https://github.com/frogtheastro
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
-
+<!--START_SECTION:SHOW_LINES_OF_CODE-->
+<!--END_SECTION:SHOW_LINES_OF_CODE-->
+<!--START_SECTION:SHOW_LINES_OF_CODE-->
+<!--END_SECTION:SHOW_LINES_OF_CODE-->
 <!--
 **frogtheastronaut/frogtheastronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
