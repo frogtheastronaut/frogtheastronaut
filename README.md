@@ -35,4 +35,5 @@ Lately, I've been trying to make a [web crawler](https://github.com/frogtheastro
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=frogtheastronaut&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=frogtheastronaut&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![My stats](https://github-readme-stats.vercel.app/api?username=frogtheastronaut&show_icons=true&theme=onedark)
