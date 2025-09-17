@@ -1,16 +1,20 @@
-# Hi there 👋 
-I'm Ethan, a teenage kid who enjoys learning a bit of everything.<br>
+# Hi there 👋
+
+I'm Ethan, a teenage kid who enjoys learning a bit of everything. \
 
 ## Some things about me
+
 - 🌱 I’m currently learning Rust, a programming language.
 - 💬 Ask me about the adventures I've gone on in my programming journey.
 - 📫 How to reach me: I usually check my email. I live under a rock, so other than that, there's no other method of reaching out to me.
 - ⚡ Fun fact: I enjoy cars. My favourite car is the Corvette Stingray.
 
 ## What I've been up to
+
 Lately, I've been trying to make a [web crawler](https://github.com/frogtheastronaut/hey-search) (which will be part of a Search Engine I'm trying to make). I've recently finished a project, and that is [MooseOS](https://github.com/frogtheastronaut/moose-os), a small operating system written in C.
 
 ## Tools/Languages I enjoy using
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
