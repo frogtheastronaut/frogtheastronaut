@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm Ethan, a teenage kid who enjoys learning a bit of everything. \
+I'm Ethan, a teenage kid who enjoys learning a bit of everything. 
+You can find out more about me on my [personal website!](https://ethanzyx.vercel.app/)
 
 ## Some things about me
 
