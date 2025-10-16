@@ -3,16 +3,9 @@
 I'm Ethan, a teenage kid who enjoys learning a bit of everything. 
 You can find out more about me on my [personal website!](https://ethanzyx.vercel.app/)
 
-## Some things about me
-
-- 🌱 I’m currently learning Rust, a programming language.
-- 💬 Ask me about the adventures I've gone on in my programming journey.
-- 📫 How to reach me: I usually check my email. I live under a rock, so other than that, there's no other method of reaching out to me.
-- ⚡ Fun fact: I enjoy cars. My favourite car is the Corvette Stingray.
-
+[GPG Key](https://ethanzyx.vercel.app/pgp.txt)
 ## What I've been up to
-
-Lately, I've been trying to make a [web crawler](https://github.com/frogtheastronaut/hey-search) (which will be part of a Search Engine I'm trying to make). I've recently finished a project, and that is [MooseOS](https://github.com/frogtheastronaut/moose-os), a small operating system written in C.
+I've recently finished a project, and that is [MooseOS](https://github.com/frogtheastronaut/moose-os), a small operating system written in C.
 
 ## Tools/Languages I enjoy using
 
@@ -36,8 +29,6 @@ Lately, I've been trying to make a [web crawler](https://github.com/frogtheastro
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=frogtheastronaut&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
