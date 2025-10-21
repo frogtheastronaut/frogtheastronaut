@@ -31,4 +31,7 @@ I've recently finished a project, and that is [MooseOS](https://github.com/frogt
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
 
+# My Legacy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=frogtheastronaut&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=frogtheastronaut&show_icons=true&theme=onedark)
